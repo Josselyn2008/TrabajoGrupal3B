@@ -1,0 +1,11 @@
+C:\Users\josym\Desktop\Jossy\TERCER SEMESTRE\PROGRAMAS DE VISUAL STUDIO\FACTORY\obj\Debug\netcoreapp3.0\FACTORY.csprojAssemblyReference.cache
+C:\Users\josym\Desktop\Jossy\TERCER SEMESTRE\PROGRAMAS DE VISUAL STUDIO\FACTORY\obj\Debug\netcoreapp3.0\FACTORY.AssemblyInfoInputs.cache
+C:\Users\josym\Desktop\Jossy\TERCER SEMESTRE\PROGRAMAS DE VISUAL STUDIO\FACTORY\obj\Debug\netcoreapp3.0\FACTORY.AssemblyInfo.cs
+C:\Users\josym\Desktop\Jossy\TERCER SEMESTRE\PROGRAMAS DE VISUAL STUDIO\FACTORY\bin\Debug\netcoreapp3.0\FACTORY.exe
+C:\Users\josym\Desktop\Jossy\TERCER SEMESTRE\PROGRAMAS DE VISUAL STUDIO\FACTORY\bin\Debug\netcoreapp3.0\FACTORY.deps.json
+C:\Users\josym\Desktop\Jossy\TERCER SEMESTRE\PROGRAMAS DE VISUAL STUDIO\FACTORY\bin\Debug\netcoreapp3.0\FACTORY.runtimeconfig.json
+C:\Users\josym\Desktop\Jossy\TERCER SEMESTRE\PROGRAMAS DE VISUAL STUDIO\FACTORY\bin\Debug\netcoreapp3.0\FACTORY.runtimeconfig.dev.json
+C:\Users\josym\Desktop\Jossy\TERCER SEMESTRE\PROGRAMAS DE VISUAL STUDIO\FACTORY\bin\Debug\netcoreapp3.0\FACTORY.dll
+C:\Users\josym\Desktop\Jossy\TERCER SEMESTRE\PROGRAMAS DE VISUAL STUDIO\FACTORY\bin\Debug\netcoreapp3.0\FACTORY.pdb
+C:\Users\josym\Desktop\Jossy\TERCER SEMESTRE\PROGRAMAS DE VISUAL STUDIO\FACTORY\obj\Debug\netcoreapp3.0\FACTORY.dll
+C:\Users\josym\Desktop\Jossy\TERCER SEMESTRE\PROGRAMAS DE VISUAL STUDIO\FACTORY\obj\Debug\netcoreapp3.0\FACTORY.pdb
