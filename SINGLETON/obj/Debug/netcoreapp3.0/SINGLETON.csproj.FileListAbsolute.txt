@@ -1,0 +1,11 @@
+C:\Users\josym\Desktop\Jossy\TERCER SEMESTRE\PROGRAMAS DE VISUAL STUDIO\SINGLETON\bin\Debug\netcoreapp3.0\SINGLETON.exe
+C:\Users\josym\Desktop\Jossy\TERCER SEMESTRE\PROGRAMAS DE VISUAL STUDIO\SINGLETON\bin\Debug\netcoreapp3.0\SINGLETON.deps.json
+C:\Users\josym\Desktop\Jossy\TERCER SEMESTRE\PROGRAMAS DE VISUAL STUDIO\SINGLETON\bin\Debug\netcoreapp3.0\SINGLETON.runtimeconfig.json
+C:\Users\josym\Desktop\Jossy\TERCER SEMESTRE\PROGRAMAS DE VISUAL STUDIO\SINGLETON\bin\Debug\netcoreapp3.0\SINGLETON.runtimeconfig.dev.json
+C:\Users\josym\Desktop\Jossy\TERCER SEMESTRE\PROGRAMAS DE VISUAL STUDIO\SINGLETON\bin\Debug\netcoreapp3.0\SINGLETON.dll
+C:\Users\josym\Desktop\Jossy\TERCER SEMESTRE\PROGRAMAS DE VISUAL STUDIO\SINGLETON\bin\Debug\netcoreapp3.0\SINGLETON.pdb
+C:\Users\josym\Desktop\Jossy\TERCER SEMESTRE\PROGRAMAS DE VISUAL STUDIO\SINGLETON\obj\Debug\netcoreapp3.0\SINGLETON.csprojAssemblyReference.cache
+C:\Users\josym\Desktop\Jossy\TERCER SEMESTRE\PROGRAMAS DE VISUAL STUDIO\SINGLETON\obj\Debug\netcoreapp3.0\SINGLETON.AssemblyInfoInputs.cache
+C:\Users\josym\Desktop\Jossy\TERCER SEMESTRE\PROGRAMAS DE VISUAL STUDIO\SINGLETON\obj\Debug\netcoreapp3.0\SINGLETON.AssemblyInfo.cs
+C:\Users\josym\Desktop\Jossy\TERCER SEMESTRE\PROGRAMAS DE VISUAL STUDIO\SINGLETON\obj\Debug\netcoreapp3.0\SINGLETON.dll
+C:\Users\josym\Desktop\Jossy\TERCER SEMESTRE\PROGRAMAS DE VISUAL STUDIO\SINGLETON\obj\Debug\netcoreapp3.0\SINGLETON.pdb
